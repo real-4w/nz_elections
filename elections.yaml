@@ -1,0 +1,5 @@
+---
+debug : True                                                      # will toggle the debug prints
+plot : True                                                       # will toggle the amthplots
+copy_to_file : False                                               # will toggle a copy of the console to log file
+overall_2017 : "2017/overall-results-summary.csv"                  # 2017 election results
